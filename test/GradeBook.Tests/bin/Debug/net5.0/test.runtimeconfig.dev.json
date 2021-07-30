@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/thando/.dotnet/store/|arch|/|tfm|",
+      "/home/thando/.nuget/packages"
+    ]
+  }
+}
