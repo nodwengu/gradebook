@@ -46,12 +46,10 @@ namespace GradeBook
                 }
 
                 result.Average += grade;
-
-                return result;
+    
             }
+            result.Average = result.Average / this.grades.Count;
+            return result;
         }
-
     }
-
-
 }

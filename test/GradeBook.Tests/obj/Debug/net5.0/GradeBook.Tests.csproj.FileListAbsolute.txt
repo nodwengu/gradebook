@@ -97,3 +97,10 @@
 /home/thando/Projects/CSharp/gradebook/test/GradeBook.Tests/obj/Debug/net5.0/ref/GradeBook.Tests.dll
 /home/thando/Projects/CSharp/gradebook/test/GradeBook.Tests/obj/Debug/net5.0/GradeBook.Tests.pdb
 /home/thando/Projects/CSharp/gradebook/test/GradeBook.Tests/obj/Debug/net5.0/GradeBook.Tests.genruntimeconfig.cache
+/home/thando/Projects/CSharp/gradebook/test/GradeBook.Tests/bin/Debug/net5.0/CoverletSourceRootsMapping
+/home/thando/Projects/CSharp/gradebook/test/GradeBook.Tests/bin/Debug/net5.0/GradeBook.deps.json
+/home/thando/Projects/CSharp/gradebook/test/GradeBook.Tests/bin/Debug/net5.0/GradeBook.runtimeconfig.json
+/home/thando/Projects/CSharp/gradebook/test/GradeBook.Tests/bin/Debug/net5.0/GradeBook.runtimeconfig.dev.json
+/home/thando/Projects/CSharp/gradebook/test/GradeBook.Tests/bin/Debug/net5.0/GradeBook
+/home/thando/Projects/CSharp/gradebook/test/GradeBook.Tests/bin/Debug/net5.0/GradeBook.dll
+/home/thando/Projects/CSharp/gradebook/test/GradeBook.Tests/bin/Debug/net5.0/GradeBook.pdb

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NkDAT/4OXqjviAT15QYEdWBGoN5OOe8sinaq2O2I/gO2DuvkDkP2AEwCHWvzfZyClSWE1T3U7a1VwMGrND2uQA==",
+  "dgSpecHash": "0ucdBlX1I+3oxtYTf0MuUQZiNEoiwH9LqBf+hMoLSGWcXPWtyEqQWu32IAXpkEfvmbWjgTZ8ppL6Bp7KdmOwYA==",
   "success": true,
   "projectFilePath": "/home/thando/Projects/CSharp/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
   "expectedPackageFiles": [
